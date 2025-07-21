@@ -1,0 +1,101 @@
+#MOE+CM的结果
+#1
+整体指标:
+Hamming Loss: 0.0635, Accuracy: 0.9365
+MAP:0.7022, AUC: 0.8882, F1: 0.7235, Precision: 0.7437, Recall: 0.7066
+逐类指标:
+Fracture: Accuracy: 0.9775, AUC: 0.8429, MAP: 0.5988, Precision: 0.6667, Recall: 0.6032, F1 Score: 0.6333
+Pneumothorax: Accuracy: 0.9616, AUC: 0.9126, MAP: 0.6090, Precision: 0.6772, Recall: 0.7167, F1 Score: 0.6964
+Airspace_Opacity: Accuracy: 0.8892, AUC: 0.9608, MAP: 0.9439, Precision: 0.8892, Recall: 0.8754, F1 Score: 0.8823
+Nodule_Or_Mass: Accuracy: 0.9177, AUC: 0.8366, MAP: 0.6573, Precision: 0.7418, Recall: 0.6313, F1 Score: 0.6821
+
+#2
+整体指标:
+Hamming Loss: 0.0627, Accuracy: 0.9373
+MAP:0.7027, AUC: 0.8908, F1: 0.6916, Precision: 0.7410, Recall: 0.6555
+逐类指标:
+Fracture: Accuracy: 0.9759, AUC: 0.8441, MAP: 0.5856, Precision: 0.6739, Recall: 0.4921, F1 Score: 0.5688
+Pneumothorax: Accuracy: 0.9570, AUC: 0.9166, MAP: 0.6151, Precision: 0.6579, Recall: 0.6250, F1 Score: 0.6410
+Airspace_Opacity: Accuracy: 0.9009, AUC: 0.9658, MAP: 0.9560, Precision: 0.8750, Recall: 0.9226, F1 Score: 0.8982
+Nodule_Or_Mass: Accuracy: 0.9155, AUC: 0.8368, MAP: 0.6540, Precision: 0.7571, Recall: 0.5824, F1 Score: 0.6584
+
+#3
+整体指标:
+Hamming Loss: 0.0609, Accuracy: 0.9391
+MAP:0.7043, AUC: 0.8880, F1: 0.7191, Precision: 0.7514, Recall: 0.6936
+逐类指标:
+Fracture: Accuracy: 0.9785, AUC: 0.8425, MAP: 0.5989, Precision: 0.7059, Recall: 0.5714, F1 Score: 0.6316
+Pneumothorax: Accuracy: 0.9596, AUC: 0.9129, MAP: 0.6228, Precision: 0.6783, Recall: 0.6500, F1 Score: 0.6638
+Airspace_Opacity: Accuracy: 0.8997, AUC: 0.9631, MAP: 0.9511, Precision: 0.8709, Recall: 0.9255, F1 Score: 0.8974
+Nodule_Or_Mass: Accuracy: 0.9188, AUC: 0.8334, MAP: 0.6444, Precision: 0.7504, Recall: 0.6276, F1 Score: 0.6835
+
+#4
+整体指标:
+Hamming Loss: 0.0606, Accuracy: 0.9394
+MAP:0.6984, AUC: 0.8870, F1: 0.7280, Precision: 0.7537, Recall: 0.7059
+逐类指标:
+Fracture: Accuracy: 0.9775, AUC: 0.8414, MAP: 0.5959, Precision: 0.6667, Recall: 0.6032, F1 Score: 0.6333
+Pneumothorax: Accuracy: 0.9637, AUC: 0.9126, MAP: 0.6101, Precision: 0.7025, Recall: 0.7083, F1 Score: 0.7054
+Airspace_Opacity: Accuracy: 0.8983, AUC: 0.9604, MAP: 0.9440, Precision: 0.8964, Recall: 0.8880, F1 Score: 0.8922
+Nodule_Or_Mass: Accuracy: 0.9183, AUC: 0.8334, MAP: 0.6436, Precision: 0.7493, Recall: 0.6239, F1 Score: 0.6809
+
+#5
+整体指标:
+Hamming Loss: 0.0596, Accuracy: 0.9404
+MAP:0.7027, AUC: 0.8890, F1: 0.7240, Precision: 0.7534, Recall: 0.6992
+逐类指标:
+Fracture: Accuracy: 0.9775, AUC: 0.8427, MAP: 0.5834, Precision: 0.6667, Recall: 0.6032, F1 Score: 0.6333
+Pneumothorax: Accuracy: 0.9611, AUC: 0.9132, MAP: 0.6174, Precision: 0.6897, Recall: 0.6667, F1 Score: 0.6780
+Airspace_Opacity: Accuracy: 0.9024, AUC: 0.9645, MAP: 0.9545, Precision: 0.8914, Recall: 0.9042, F1 Score: 0.8978
+Nodule_Or_Mass: Accuracy: 0.9206, AUC: 0.8357, MAP: 0.6557, Precision: 0.7658, Recall: 0.6227, F1 Score: 0.6869
+
+#6
+整体指标:
+Hamming Loss: 0.0620, Accuracy: 0.9380
+MAP:0.6980, AUC: 0.8880, F1: 0.7152, Precision: 0.7639, Recall: 0.6834
+逐类指标:
+Fracture: Accuracy: 0.9785, AUC: 0.8428, MAP: 0.5931, Precision: 0.7561, Recall: 0.4921, F1 Score: 0.5962
+Pneumothorax: Accuracy: 0.9606, AUC: 0.9155, MAP: 0.6125, Precision: 0.6667, Recall: 0.7167, F1 Score: 0.6908
+Airspace_Opacity: Accuracy: 0.8942, AUC: 0.9607, MAP: 0.9446, Precision: 0.8845, Recall: 0.8934, F1 Score: 0.8890
+Nodule_Or_Mass: Accuracy: 0.9188, AUC: 0.8329, MAP: 0.6418, Precision: 0.7482, Recall: 0.6313, F1 Score: 0.6848
+
+#7
+整体指标:
+Hamming Loss: 0.0608, Accuracy: 0.9392
+MAP:0.7055, AUC: 0.8896, F1: 0.7220, Precision: 0.7527, Recall: 0.6957
+逐类指标:
+Fracture: Accuracy: 0.9780, AUC: 0.8426, MAP: 0.5985, Precision: 0.6786, Recall: 0.6032, F1 Score: 0.6387
+Pneumothorax: Accuracy: 0.9611, AUC: 0.9165, MAP: 0.6157, Precision: 0.6897, Recall: 0.6667, F1 Score: 0.6780
+Airspace_Opacity: Accuracy: 0.9003, AUC: 0.9625, MAP: 0.9503, Precision: 0.8926, Recall: 0.8978, F1 Score: 0.8952
+Nodule_Or_Mass: Accuracy: 0.9176, AUC: 0.8367, MAP: 0.6575, Precision: 0.7500, Recall: 0.6154, F1 Score: 0.6761
+
+#8
+整体指标:
+Hamming Loss: 0.0589, Accuracy: 0.9411
+MAP:0.7022, AUC: 0.8877, F1: 0.7255, Precision: 0.7479, Recall: 0.7071
+逐类指标:
+Fracture: Accuracy: 0.9775, AUC: 0.8344, MAP: 0.5827, Precision: 0.6667, Recall: 0.6032, F1 Score: 0.6333
+Pneumothorax: Accuracy: 0.9616, AUC: 0.9142, MAP: 0.6166, Precision: 0.6891, Recall: 0.6833, F1 Score: 0.6862
+Airspace_Opacity: Accuracy: 0.9075, AUC: 0.9666, MAP: 0.9561, Precision: 0.8877, Recall: 0.9215, F1 Score: 0.9043
+Nodule_Or_Mass: Accuracy: 0.9177, AUC: 0.8354, MAP: 0.6536, Precision: 0.7482, Recall: 0.6203, F1 Score: 0.6782
+
+#9
+整体指标:
+Hamming Loss: 0.0603, Accuracy: 0.9397
+MAP:0.7052, AUC: 0.8901, F1: 0.7188, Precision: 0.7493, Recall: 0.6929
+逐类指标:
+Fracture: Accuracy: 0.9775, AUC: 0.8457, MAP: 0.5993, Precision: 0.6667, Recall: 0.6032, F1 Score: 0.6333
+Pneumothorax: Accuracy: 0.9601, AUC: 0.9147, MAP: 0.6178, Precision: 0.6842, Recall: 0.6500, F1 Score: 0.6667
+Airspace_Opacity: Accuracy: 0.9034, AUC: 0.9644, MAP: 0.9524, Precision: 0.8933, Recall: 0.9042, F1 Score: 0.8987
+Nodule_Or_Mass: Accuracy: 0.9179, AUC: 0.8357, MAP: 0.6515, Precision: 0.7530, Recall: 0.6142, F1 Score: 0.6765
+
+#10
+整体指标:
+Hamming Loss: 0.0613, Accuracy: 0.9387
+MAP:0.7028, AUC: 0.8876, F1: 0.7039, Precision: 0.7576, Recall: 0.6643
+逐类指标:
+Fracture: Accuracy: 0.9775, AUC: 0.8408, MAP: 0.5872, Precision: 0.7209, Recall: 0.4921, F1 Score: 0.5849
+Pneumothorax: Accuracy: 0.9590, AUC: 0.9141, MAP: 0.6283, Precision: 0.6724, Recall: 0.6500, F1 Score: 0.6610
+Airspace_Opacity: Accuracy: 0.9014, AUC: 0.9610, MAP: 0.9455, Precision: 0.8912, Recall: 0.9021, F1 Score: 0.8966
+Nodule_Or_Mass: Accuracy: 0.9167, AUC: 0.8345, MAP: 0.6503, Precision: 0.7459, Recall: 0.6129, F1 Score: 0.6729
+
